@@ -1,0 +1,57 @@
+
+.display-1{
+    text-align: center;
+    /* padding: 30px; */
+    color: #00b4d8;
+    /* size: 30px; */
+}   
+
+h2{
+    text-align: center;
+    color: white;
+}
+.center{
+    padding-top: auto;
+    margin-top: 250px;
+    width: 80%;
+    background-color: rgba(0, 200, 0, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+
+#noise{
+    background-color: #264653;
+}
+
+#game {
+    background-color: #2a9d8f;
+}
+#comic{
+    background-color: #e9c46a;
+}
+
+#tv{
+    background-color: #f4a261;  
+}
+#youtube{
+    background-color: #e76f51;
+}
+
+
+body {
+    background-image: url(https://cdn1.byjus.com/wp-content/uploads/blog/2022/03/09134540/Concentration-01-scaled.jpg);
+    /* background-image: url('img_girl.jpg'); */
+    /* background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover; */
+
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
